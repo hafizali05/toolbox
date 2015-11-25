@@ -1,0 +1,14 @@
+.para {
+    color: #9E9E9E;
+}
+
+.search-input {
+    border-radius: 0px;
+    padding: 12px 68px;
+}
+
+.search-btn {
+    border-radius: 0px;
+    line-height: 1.35;
+    background-color: #EE3B24;
+}
